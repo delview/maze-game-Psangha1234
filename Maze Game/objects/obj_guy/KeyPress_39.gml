@@ -12,3 +12,9 @@ direction = 0;
 /// @DnDSaveInfo : "spriteind" "spr_right"
 sprite_index = spr_right;
 image_index += 0;
+
+/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDVersion : 1
+/// @DnDHash : 6809AA2E
+/// @DnDArgument : "speed" "2"
+speed = 2;
