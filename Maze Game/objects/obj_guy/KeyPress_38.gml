@@ -16,5 +16,5 @@ image_index += 0;
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 3BE7AAD1
-/// @DnDArgument : "speed" "2"
-speed = 2;
+/// @DnDArgument : "speed" "2.5"
+speed = 2.5;
