@@ -39,6 +39,7 @@
   "resources":[
     {"id":{"name":"obj_controls","path":"objects/obj_controls/obj_controls.yy",},},
     {"id":{"name":"obj_end_game","path":"objects/obj_end_game/obj_end_game.yy",},},
+    {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
     {"id":{"name":"obj_guy","path":"objects/obj_guy/obj_guy.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"obj_win","path":"objects/obj_win/obj_win.yy",},},
@@ -50,6 +51,7 @@
     {"id":{"name":"rm_end_game","path":"rooms/rm_end_game/rm_end_game.yy",},},
     {"id":{"name":"spr_controls","path":"sprites/spr_controls/spr_controls.yy",},},
     {"id":{"name":"spr_down","path":"sprites/spr_down/spr_down.yy",},},
+    {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},},
     {"id":{"name":"spr_finish_line","path":"sprites/spr_finish_line/spr_finish_line.yy",},},
     {"id":{"name":"spr_left","path":"sprites/spr_left/spr_left.yy",},},
     {"id":{"name":"spr_right","path":"sprites/spr_right/spr_right.yy",},},
