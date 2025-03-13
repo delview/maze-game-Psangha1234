@@ -12,10 +12,5 @@ audio_play_sound(snd_flashbanggg, 0, 0, 1.0, undefined, 1.0);
 
 /// @DnDAction : YoYo Games.Particles.Effect
 /// @DnDVersion : 1
-/// @DnDHash : 489502F5
-/// @DnDArgument : "x" "32"
-/// @DnDArgument : "y" "33"
-/// @DnDArgument : "where" "1"
-/// @DnDArgument : "size" "1"
-/// @DnDArgument : "color" "$FF1F1F42"
-effect_create_above(0, 32, 33, 1, $FF1F1F42 & $ffffff);
+/// @DnDHash : 58402978
+effect_create_below(0, 0, 0, 0, $FFFFFF & $ffffff);
