@@ -49,6 +49,7 @@
     {"id":{"name":"rm_4","path":"rooms/rm_4/rm_4.yy",},},
     {"id":{"name":"rm_controls","path":"rooms/rm_controls/rm_controls.yy",},},
     {"id":{"name":"rm_end_game","path":"rooms/rm_end_game/rm_end_game.yy",},},
+    {"id":{"name":"sd_roblox_off_sound","path":"sounds/sd_roblox_off_sound/sd_roblox_off_sound.yy",},},
     {"id":{"name":"spr_controls","path":"sprites/spr_controls/spr_controls.yy",},},
     {"id":{"name":"spr_down","path":"sprites/spr_down/spr_down.yy",},},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},},
