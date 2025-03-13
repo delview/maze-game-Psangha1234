@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"sd_roblox_off_sound",
+  "%Name":"snd_flashbanggg",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.48898,
-  "name":"sd_roblox_off_sound",
+  "duration":4.632,
+  "name":"snd_flashbanggg",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"sd_roblox_off_sound.mp3",
+  "soundFile":"snd_flashbanggg.mp3",
   "type":0,
   "volume":1.0,
 }
